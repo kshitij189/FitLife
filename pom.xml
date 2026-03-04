@@ -8,7 +8,7 @@
 		<version>3.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.subproblem</groupId>
+	<groupId>com.kshitij189</groupId>
 	<artifactId>fitness-tracking-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>fitness-tracking-app</name>

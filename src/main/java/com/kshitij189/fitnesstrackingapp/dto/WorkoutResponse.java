@@ -1,0 +1,11 @@
+package com.kshitij189.fitnesstrackingapp.dto;
+
+import java.time.LocalDate;
+
+public record WorkoutResponse(
+        String id,
+        LocalDate workoutDate,
+        String exerciseType,
+        PerformanceMetricsResponse performanceMetricsResponse
+) {
+}
